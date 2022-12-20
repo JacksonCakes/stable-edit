@@ -1,6 +1,8 @@
 **/__pycache__/**
 .tmp.drivedownload
 .tmp.driveupload
+config.ini
+*.jpg
 *.pth
 *.pt
 *.ckpt
